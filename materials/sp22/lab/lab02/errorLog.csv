@@ -1,0 +1,11 @@
+0,SyntaxError,"invalid character '−' (U+2212) (2212902735.py, line 1)",0,,2023-02-07 12:31:03.276692
+1,NameError,name 'floor' is not defined,0,,2023-02-07 17:14:10.816676
+2,NameError,name 'farmers_market' is not defined,0,,2023-02-07 17:17:05.184446
+3,NameError,name 'farmers_market' is not defined,0,,2023-02-07 17:25:09.973366
+4,ValueError,<datascience.predicates._combinable object at 0x7f8b882287c0> is not a label or index,0,,2023-02-07 17:27:18.575132
+5,AttributeError,'Table' object has no attribute 'tbl',0,,2023-02-07 17:36:07.459457
+6,AttributeError,'Table' object has no attribute 'tbl',0,,2023-02-07 17:36:57.260968
+7,AttributeError,'Table' object has no attribute 'tbl',0,,2023-02-07 17:37:25.241805
+8,AttributeError,'Table' object has no attribute 'tbl',0,,2023-02-07 17:38:41.813617
+9,TypeError,unsupported operand type(s) for /: 'Table' and 'int',0,,2023-02-07 18:09:58.278054
+10,TypeError,unsupported operand type(s) for /: 'Table' and 'int',0,,2023-02-07 18:12:47.576363
