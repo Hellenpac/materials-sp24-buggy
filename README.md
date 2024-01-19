@@ -1,6 +1,6 @@
 # Data 8 Public Materials for Spring 2024
 
-This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2022 semester.
+This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course at College of San Mateo during the Spring 2024 semester.
 
 This includes: homeworks, labs, and notebooks used in lecture.
 
